@@ -1,0 +1,12 @@
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent">#FF6D00</color>
+    <color name="ball_bg">#E65100</color>
+    <color name="panel_bg">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="answer_hl">#FFF3E0</color>
+    <color name="ic_launcher_background">#1565C0</color>
+</resources>

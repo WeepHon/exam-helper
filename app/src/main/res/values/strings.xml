@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">题库助手</string>
+    <string name="xposed_description">屏幕题目识别 + 悬浮窗答案（支持本地题库与联网检索）</string>
+    <string name="a11y_service_name">题库助手-屏幕读取</string>
+</resources>
